@@ -64,9 +64,8 @@ main .welcome{
     text-align: center;
     margin: 0 auto;
     
-
-    
 }
+
 .row{
     display: flex;
     
@@ -113,6 +112,7 @@ img{
 }
 #review{
     color: white;
+    text-align: center;
     
 
 }
