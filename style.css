@@ -116,3 +116,17 @@ img{
     
 
 }
+.row1{
+    display: flex;
+    
+    justify-content: center;
+}
+.card1{
+    background-color: whitesmoke;
+    /*box-shadow: 0 0 15px yellowgreen;*/
+    
+    margin: 10px;
+    width: 35%;
+    height: 250px;
+    
+}
