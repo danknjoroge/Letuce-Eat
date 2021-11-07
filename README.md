@@ -10,8 +10,5 @@ My email is Dank8505@gmail.com
 ### License
 
 Copyright@2021 **Developed by Daniel njoroge**
-
-
-
-# Letuce-Eat
-# Letuce-Eat
+# You can access the site through the following
+https://danknjoroge.github.io/Letuce-Eat/
