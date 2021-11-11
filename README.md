@@ -1,17 +1,26 @@
-# Letuce-Eat
+# Letuce Eat
+#### Daniel Njoroge
+## Description
+This is a simple landing page for LeWebsitetuce Eat
+## Screenshot
+<img src="images/s1.png">
+<img src="images/s2.png">
 
 
-#### Its a hotel webApp that eases the process of ordering food and booking rooms on the customer side. It displays a list of the meals served together with their prices for one to select thei preference and order. [07/11/2021]
-#### By **Daniel Njoroge**
+## Setup/Installation Requirements
+* Clone the repository to your computer from 
+        https://github.com/danknjoroge/Letuce-Eat.git
+* Open the project using your preferred code editor.
+* Open the project using a web browser, preferably Google Chrome.
+## Known Bugs
+There are no known bugs
 ## Technologies Used
-It was developed using HTML and CSS. The code editor used is Visual Studio
+HTML 
+CSS
 ## Support and contact details
-My email is Dank8505@gmail.com
+for any query or support reach me via.
+* dank8505@gmail.com
 ### License
-
-Copyright@2021 **Developed by Daniel njoroge**
-
-
-
-# Letuce-Eat
-# Letuce-Eat
+This project is under [MIT](LICENSE).
+### Coraborators
+Daniel Njoroge
