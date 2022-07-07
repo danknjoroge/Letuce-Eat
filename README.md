@@ -1,5 +1,5 @@
 ## Letuce Eat
-#### Daniel Njoroge
+####By Daniel Njoroge
 ## Description
 This is a simple landing page for Letuce Eat website.
 
